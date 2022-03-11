@@ -1,0 +1,11 @@
+.container {
+  margin-top: 30px;
+}
+
+.nav-tabs{
+  margin-bottom: 20px;
+}
+
+.nav-tabs>li.active>a{
+  color:red;
+}
